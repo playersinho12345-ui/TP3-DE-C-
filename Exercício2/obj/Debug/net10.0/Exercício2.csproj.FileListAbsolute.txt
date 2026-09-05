@@ -1,0 +1,14 @@
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\bin\Debug\net10.0\Exercício2.exe
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\bin\Debug\net10.0\Exercício2.deps.json
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\bin\Debug\net10.0\Exercício2.runtimeconfig.json
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\bin\Debug\net10.0\Exercício2.dll
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\bin\Debug\net10.0\Exercício2.pdb
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\obj\Debug\net10.0\Exercício2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\obj\Debug\net10.0\Exercício2.AssemblyInfoInputs.cache
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\obj\Debug\net10.0\Exercício2.AssemblyInfo.cs
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\obj\Debug\net10.0\Exercício2.csproj.CoreCompileInputs.cache
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\obj\Debug\net10.0\Exercício2.dll
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\obj\Debug\net10.0\refint\Exercício2.dll
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\obj\Debug\net10.0\Exercício2.pdb
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\obj\Debug\net10.0\Exercício2.genruntimeconfig.cache
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\obj\Debug\net10.0\ref\Exercício2.dll

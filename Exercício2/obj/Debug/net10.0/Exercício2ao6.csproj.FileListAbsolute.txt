@@ -1,0 +1,14 @@
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\bin\Debug\net10.0\Exercício2ao6.exe
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\bin\Debug\net10.0\Exercício2ao6.deps.json
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\bin\Debug\net10.0\Exercício2ao6.runtimeconfig.json
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\bin\Debug\net10.0\Exercício2ao6.dll
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\bin\Debug\net10.0\Exercício2ao6.pdb
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\obj\Debug\net10.0\Exercício2ao6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\obj\Debug\net10.0\Exercício2ao6.AssemblyInfoInputs.cache
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\obj\Debug\net10.0\Exercício2ao6.AssemblyInfo.cs
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\obj\Debug\net10.0\Exercício2ao6.csproj.CoreCompileInputs.cache
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\obj\Debug\net10.0\Exercício2ao6.dll
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\obj\Debug\net10.0\refint\Exercício2ao6.dll
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\obj\Debug\net10.0\Exercício2ao6.pdb
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\obj\Debug\net10.0\Exercício2ao6.genruntimeconfig.cache
+C:\Users\lbrne\source\repos\TP3-C#\Exercício2\obj\Debug\net10.0\ref\Exercício2ao6.dll
