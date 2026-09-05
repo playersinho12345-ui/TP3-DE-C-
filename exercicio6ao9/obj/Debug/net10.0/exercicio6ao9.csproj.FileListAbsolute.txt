@@ -1,0 +1,14 @@
+C:\Users\lbrne\source\repos\TP3-C#\exercicio6ao9\bin\Debug\net10.0\exercicio6ao9.exe
+C:\Users\lbrne\source\repos\TP3-C#\exercicio6ao9\bin\Debug\net10.0\exercicio6ao9.deps.json
+C:\Users\lbrne\source\repos\TP3-C#\exercicio6ao9\bin\Debug\net10.0\exercicio6ao9.runtimeconfig.json
+C:\Users\lbrne\source\repos\TP3-C#\exercicio6ao9\bin\Debug\net10.0\exercicio6ao9.dll
+C:\Users\lbrne\source\repos\TP3-C#\exercicio6ao9\bin\Debug\net10.0\exercicio6ao9.pdb
+C:\Users\lbrne\source\repos\TP3-C#\exercicio6ao9\obj\Debug\net10.0\exercicio6ao9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbrne\source\repos\TP3-C#\exercicio6ao9\obj\Debug\net10.0\exercicio6ao9.AssemblyInfoInputs.cache
+C:\Users\lbrne\source\repos\TP3-C#\exercicio6ao9\obj\Debug\net10.0\exercicio6ao9.AssemblyInfo.cs
+C:\Users\lbrne\source\repos\TP3-C#\exercicio6ao9\obj\Debug\net10.0\exercicio6ao9.csproj.CoreCompileInputs.cache
+C:\Users\lbrne\source\repos\TP3-C#\exercicio6ao9\obj\Debug\net10.0\exercicio6ao9.dll
+C:\Users\lbrne\source\repos\TP3-C#\exercicio6ao9\obj\Debug\net10.0\refint\exercicio6ao9.dll
+C:\Users\lbrne\source\repos\TP3-C#\exercicio6ao9\obj\Debug\net10.0\exercicio6ao9.pdb
+C:\Users\lbrne\source\repos\TP3-C#\exercicio6ao9\obj\Debug\net10.0\exercicio6ao9.genruntimeconfig.cache
+C:\Users\lbrne\source\repos\TP3-C#\exercicio6ao9\obj\Debug\net10.0\ref\exercicio6ao9.dll
